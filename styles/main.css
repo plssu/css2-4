@@ -1,0 +1,200 @@
+#main {
+    text-align: center;
+}
+
+/* #pictureText {
+
+} */
+
+/* #lorem {
+    
+} */
+
+#navigation {
+    width: 970px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 3px;
+}
+
+#frame {
+    background-color: #EBF8FE;
+    display: inline-block;
+    width: 700px;
+    margin-top: 40px;
+    border: solid 1px #EBF8FE;
+    display: inline-block;
+    align-items: center;
+    padding: 30px 20px;
+    left: 1000px;
+    top: 945px;
+    border-radius: 24px;
+    
+}
+
+#heading {
+    width: 690px;
+    height: 30px;
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+}
+
+#supporting {
+    text-align: left;
+    width: 650px;
+    height: 88px;
+    font-family: 'Instrument Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    color: #535862;
+}
+
+#input {
+    display: inline-block;
+    padding: 0px;
+    width: 350px;
+    height: 74px;
+}
+
+#field {
+    display: inline-block;
+    padding: 0px;
+    width: 345px;
+    height: 74px;
+}
+
+#text {
+    display: inline-block;
+    width: 290px;
+    height: 48px; 
+    box-sizing: border-box;
+    align-items: center;
+    padding: 12px 14px;
+    background: #FFFFFF;
+    border: 1px solid #D5D7DA;
+}
+
+#hint {
+    color: #535862;
+    margin: 5px;
+}
+
+#subscribe {
+    display: inline;
+    align-items: center;
+    padding: 12px 12px;
+    width: 119px;
+    height: 48px;
+    background: #007CB8;
+    border: 2px solid #FFFFFF;
+    border-radius: 8px;
+    
+}
+
+#button {
+    display: inline-block;
+    background-color: #007CB8;
+    border: #007CB8 solid 2px;
+}
+
+#form {
+    display: inline-block;
+    padding: 40px 32px;
+    margin-top: 40px;
+    margin-left: 15px;
+    width: 546px;
+    height: 638px;
+    left: calc(50% - 546px/2);
+    top: 1367px;
+    background: #EBF8FE;
+    border-radius: 24px;
+}
+
+#headingg {
+    display: inline-block;
+    padding: 0px;
+    width: 482px;
+    height: 72px;
+}
+
+#nameAndEmail {
+    display: inline-block;
+    padding: 0px;
+    width: 482px;
+    height: 172px;
+    text-align: left;
+}
+
+#fullName {
+    display: block;
+    padding: 0px;
+    width: 482px;
+    height: 74px;
+}
+
+#email {
+    display: block;
+    padding: 0px;
+    width: 482px;
+    height: 74px;
+}
+
+#circle {
+    display: block;
+    text-align: left; 
+    padding: 0px;
+    width: 338px;
+    height: 111px;
+}
+
+#ratio {
+    display: inline-block;
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 35px;
+    padding: 0px;
+    width: 482px;
+    height: 30px;
+}
+
+#radio {
+    display: block;
+    margin-left: 35px;
+    padding: 0px;
+    width: 14px;
+    height: 15px;  
+}
+
+#square {
+    display: block;
+    text-align: left;
+    margin-top: 50px;
+    padding: 0px;
+    width: 338px;
+    height: 111px;
+}
+
+#check {
+    display: inline-block;
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 35px;
+    padding: 0px;
+    width: 482px;
+    height: 30px;
+}
+
+#checkbox {
+    display: block;
+    margin-left: 35px;
+    padding: 0px;
+    width: 14px;
+    height: 15px;
+    background-color: #007CB8;
+    color: #007CB8;
+}
